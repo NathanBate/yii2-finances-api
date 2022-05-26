@@ -1,0 +1,11 @@
+{
+    "name": "nateatnts/baseapi-starter",
+    "description": "Base API Starter Project",
+    "keywords": [
+        "api"
+    ],
+    "require": {
+        "nateatnts/baseapi": "^0.1.2"
+    }
+}
+
